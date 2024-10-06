@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr.Gui Cheng"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,11 +24,11 @@ author:
   avatar           : "guicheng.png"
   name             : "Gui Cheng (程归)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing Wuhan University;focus on UAV object detection; deep learning;domain adaption;"
   location         : "China Wuhan"
   employer         : "Wuhan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenggui@whu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
