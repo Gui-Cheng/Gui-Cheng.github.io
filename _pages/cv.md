@@ -49,6 +49,14 @@ Awards
 * 长安大学 院级三好学生 2016
 
 
+Talks
+======
+* IEEE/CAA Journal of Automatica Sinica Symposium Series III，2022年5月，口头报告 
+ 
+* 第十届全国地理信息科学博士生论坛，2022年12月，口头报告 
+
+* The 30th International Conference on Geoinformatics，2023年7月，英国伦敦，Poster
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
