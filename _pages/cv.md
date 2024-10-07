@@ -13,9 +13,9 @@ Education
 ======
 
 
-* 2021.09-2024.12                Ph.D of Photogrammetry and Remote Sensingin [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).    Supervisor: [Prof. Zhenfeng Shao](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/index.html) 
+* 2021.09-2024.12                Ph.D of Photogrammetry and Remote Sensing in [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).    Supervisor: [Prof. Zhenfeng Shao](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/index.html) 
 
-* 2019.09-2021.06        M.E.Candidate of Photogrammetry and Remote Sensingin [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).    Supervisor: [Prof. Zhenfeng Shao](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/index.html) 
+* 2019.09-2021.06        M.E.Candidate of Photogrammetry and Remote Sensing in [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).    Supervisor: [Prof. Zhenfeng Shao](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/index.html) 
 
 * 2015.09-2019.06         B.E. of geographic information science in [School of Earth Science and Resources](https://zyonline.chd.edu.cn/), [Chang'an University](https://www.chd.edu.cn/).  
 
