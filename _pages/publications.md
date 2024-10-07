@@ -5,11 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">For a full list of my publications, please refer to my  <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
+
+Publications
+======
+For a full list of my publications, please refer to my  <a href="{{site.author.googlescholar}}">my Google Scholar profile
+
 
 Education
 ======
