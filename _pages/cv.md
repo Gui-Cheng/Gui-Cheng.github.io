@@ -57,18 +57,7 @@ Talks
 
 * The 30th International Conference on Geoinformatics，2023年7月，英国伦敦，Poster
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-
-  
-Skills
-======
-* Skill 1
 
 
 
