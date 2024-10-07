@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if site.author.googlescholar %}
-  <div class="wordwrap">For a full list of my publications, please refer to my  <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %} -->
+
 
 {% include base_path %}
 
@@ -32,29 +30,6 @@ Selected Publications
 
 * **Gui Cheng**, Zhenfeng. Shao, Qimin. Cheng and Heng. Luo. Small Object Detection on Drone-view Images from Multiple UAVs Combination. 2023 30th International Conference on Geoinformatics, London, United Kingdom, 2023, pp. 1-7.(EI会议).
 
-
-<!-- {% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}  -->
 
 
 
