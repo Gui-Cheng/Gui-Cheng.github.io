@@ -19,6 +19,7 @@ For a full list of my publications, please refer to my  <a href="{{site.author.g
 Selected Publications
 ======
 
+
 * **Gui Cheng**,  Zhenfeng Shao*, Jiamin Wang, Xiao Huang, Chaoya Dang. Dual-Branch Multi-Level Feature Aggregation Network for Pansharpening. IEEE/CAA Journal of Automatica Sinica, 9.11 (2022): 2023-2026.(中科院一区TOP, IF = 15.3)
 
 * Zhenfeng Shao, **Gui Cheng***, Jiayi Ma, Zhongyuan Wang, Jiaming Wang, Deren Li. Real-Time and Accurate UAV Pedestrian Detection for Social Distancing Monitoring in COVID-19 Pandemic. IEEE Transactions on Multimedia, 24 (2022): 2069-2083. (中科院一区TOP, IF = 8.4，ESI高被引)
