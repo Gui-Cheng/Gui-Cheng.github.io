@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have got my undergraduate degree in Chang’an University in 2019. Now, I am doing research in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University for my PhD degree (successive master-doctor program). My tutor is Professor Zhenfeng Shao. 
+本科毕业于长安大学，并以专业成绩排名第一保研至武汉大学，目前为武汉大学测绘遥感信息工程国家重点实验室摄影测量与遥感专业在读博士，导师为邵振峰教授（实验室副主任，教育部长江学者特聘教授）。本人从事遥感信息智能提取研究，创新深度学习方法解决遥感领域关键问题，博士期间从事过图像融合、图像超分辨重建、基于LiDAR数据的三维重建、视频卫星影像目标跟踪等方向研究，着重专研无人机遥感影像目标智能识别方向。作为骨干人员参与多项国家自然科学基金面上项目、省重点研发项目及产学研项目，以第一作者（导师外第一作者）身份发表学术论文 6 篇，含中科院一区论文 4 篇，EI会议论文 2 篇，申请国家发明专利 1 项。 博士期间完成了多个项目的申报和验收，参与多项奖项申报、多部教材和专著的撰写、以及地方标准的撰写。
 
 
 Research interests
