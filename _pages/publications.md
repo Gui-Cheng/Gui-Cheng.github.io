@@ -21,7 +21,7 @@ Education
 <!-- {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -39,7 +39,7 @@ Education
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %} -->
+{% endif %}  -->
 
 
 
