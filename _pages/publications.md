@@ -16,12 +16,8 @@ Publications
 For a full list of my publications, please refer to my  <a href="{{site.author.googlescholar}}">my Google Scholar profile
 
 
-## Selected Publications
-
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+Selected Publications
+======
 
 * **Gui Cheng**,  Zhenfeng Shao*, Jiamin Wang, Xiao Huang, Chaoya Dang. Dual-Branch Multi-Level Feature Aggregation Network for Pansharpening. IEEE/CAA Journal of Automatica Sinica, 9.11 (2022): 2023-2026.(中科院一区TOP, IF = 15.3)
 
