@@ -11,9 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+
+* 2021.09-2024.06               Pursuing Ph.D of Photogrammetry and Remote Sensingin [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).    Supervisor: [Prof. Zhenfeng Shao](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/index.html) 
+
+* 2019.09-2021.06        M.E.Candidate of Photogrammetry and Remote Sensingin [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).    Supervisor: [Prof. Zhenfeng Shao](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/index.html) 
+
+* 2015.09-2019.06         B.E. of geographic information science in [School of Earth Science and Resources](https://zyonline.chd.edu.cn/), [Chang'an University](https://www.chd.edu.cn/).  
+
+
+Awards
+======
+* 第十一届高校GIS论坛·高校GIS新秀 （全国仅12人入选）2023
+
+* 武汉大学“优秀研究生” 2023
+
+* 武汉大学博士研究生“优秀学业奖学金”二等奖  2022
+
+* 中国地理信息产业协会“地理信息科技进步奖特等奖（24/30） 2022
+
+* 武汉大学“优秀研究生” 2022
+
+* 武汉大学博士研究生“优秀学业奖学金”一等奖 2022
+
+* 武汉大学研究生“新生奖学金”二等奖 2019 
+
+* 长安大学 优秀毕业生 2019
+
+* 长安大学 国家励志奖学金 2018
+
+* 长安大学 国家励志奖学金 2017
+
+* 第九届全国大学生数学竞赛（非数学类）陕西赛区二等奖 2017
+
+* 第八届全国大学生数学竞赛（非数学类）一等奖 2016
+
+* 长安大学 院级三好学生 2016
+
 
 Work experience
 ======
@@ -22,43 +56,11 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+

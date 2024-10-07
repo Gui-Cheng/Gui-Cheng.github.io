@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-
-
-
 For a full list of my publications, please refer to my  <a href="{{site.author.googlescholar}}">my Google Scholar profile
 
 
