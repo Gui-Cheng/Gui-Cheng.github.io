@@ -12,6 +12,12 @@ For a full list of my publications, please refer to my  <a href="{{site.author.g
 Selected Publications
 ======
 
+* **Gui Cheng**, Xubin Feng, Yan Tian, Meilin Xie, Chaoya Dang, Qing Ding, Zhenfeng Shao. ASCDet: Cross-Space UAV Object Detection Method Guided by Adaptive Sparse Convolution. International Journal of Digital Earth, 17.1 (2024): 2414848.(中科院一区,IF = 3.7, In Peer Review) 
+
+
+* **Gui Cheng**,Xubin Feng, Yan Tian, Meilin Xie,  Qing Ding, Chaoya Dang, Zhenfeng Shao. WMFA-AT: Adaptive Teacher with Weighted Multi-layer Feature Alignment for Cross-domain UAV Object Detection. International Journal of Digital Earth, 17.1 (2024): 2414848.(中科院一区,IF = 3.7, In Peer Review) 
+
+* **Gui Cheng**,Qing Ding, Bowen Cai, Chaoya Dang, Yu Wang Xiaolong Zuo and Zhenfeng Shao. CSSDet: Small Object Detection via Cross-Scale Feature Enhancement on Drone-view Images. International Journal of Digital Earth, 17.1 (2024): 2414848.(中科院一区,IF = 3.7) 
 
 * **Gui Cheng**,  Zhenfeng Shao*, Jiamin Wang, Xiao Huang, Chaoya Dang. Dual-Branch Multi-Level Feature Aggregation Network for Pansharpening. IEEE/CAA Journal of Automatica Sinica, 9.11 (2022): 2023-2026.(中科院一区TOP, IF = 15.3)
 
@@ -19,7 +25,6 @@ Selected Publications
 
 * Zhenfeng Shao, **Gui Cheng**, Deren Li, Xiao Huang, Zhipeng Lu, Jian Liu. Spatio-temporal-spectral-angular observation model that integrates observations from UAV and mobile mapping vehicle for better urban mapping. Geo-spatial Information Science 24.4 (2021): 615-629.（中科院一区, IF = 4.4）
 
-* **Gui Cheng**,Qing Ding, Bowen Cai, Chaoya Dang, Yu Wang Xiaolong Zuo and Zhenfeng Shao. CSSDet: Small Object Detection via Cross-Scale Feature Enhancement on Drone-view Images. International Journal of Digital Earth.(中科院一区,IF = 3.7，已录用) 
 
 * Zhenfeng Shao, **Gui Cheng**, Yuanyang Yi. Indoor and Outdoor Structured Monomer Reconstruction of City 3d Real Scene Based on Nonlinear Optimization and Integration of Multi-Source and Multi-Modal Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 48 (2022): 51-57. (EI会议)
 
