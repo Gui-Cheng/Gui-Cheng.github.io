@@ -13,7 +13,7 @@ redirect_from:
 
 作为骨干成员，参与了多项国家自然科学基金面上项目、省级重点研发项目及产学研合作项目。以第一作者（导师外第一作者）身份发表学术论文6篇，其中包括中科院一区论文4篇及EI会议论文2篇，并申请国家发明专利3项。
 
-Research interests
+Research Interests
 ======
 My research areas include
 
