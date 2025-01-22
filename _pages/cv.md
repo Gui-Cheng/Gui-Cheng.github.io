@@ -7,7 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
+
+Work  Experience
+======
+* 2024.12-                Assistant Researcher at [Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences](https://www.opt.ac.cn/).
+
+
 
 Education
 ======
