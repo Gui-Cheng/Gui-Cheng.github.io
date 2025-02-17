@@ -11,7 +11,7 @@ redirect_from:
 
 Work  Experience
 ======
-* 2024.12-                Assistant Researcher at [Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences](https://www.opt.ac.cn/).
+* 2024.12-                Research Assistant  at [Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences](https://www.opt.ac.cn/).
 
 
 
